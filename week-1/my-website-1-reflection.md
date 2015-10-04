@@ -24,3 +24,5 @@ In this challenge I really locked in the stages of commits and pushing to the ma
 
 
 #Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+
+Overstack helped a lot.
