@@ -1,6 +1,6 @@
 # 1.6 Your Website 
 
-https://github.com/Jmonzon0415/Jmonzon0415.github.io.git 
+Jmonzon0415.github.io/blog/git.html 
 
 #Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person.
 
