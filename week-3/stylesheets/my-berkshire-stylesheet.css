@@ -1,0 +1,72 @@
+html { background-color: white; 
+
+}
+
+* {color:navy;}
+
+
+a:link{ color: purple;
+		 font-size: px12;}
+
+a:visited{ color:red; }
+
+.right{ float: right;
+		}
+
+.left{float: left;
+	  }
+
+ul span {font-size: 10px}
+
+header {font-weight: bold;
+	font-size: 12px;
+	text-align: center ; 
+border-bottom: 1px solid;} 
+
+
+footer {position: relative; 
+		margin:200px 10px -50px 10px;
+		border-top: 1px solid}
+
+
+footer p { font-size: 8px;
+			}
+
+section {
+border-bottom: 1px solid;
+font-size: 10px;
+text-align: center; }
+
+.notes{font-size: 12px;}
+ 
+ /*What is important to know when linking an external file (like a stylesheet) to an HTML file?
+	It is important to have the right pathway and syntax
+
+
+What tricks did you use to help you with positioning? 
+	Using float and clear really helped with positioning as well playinwith the margins and padding
+
+
+
+How hard was it to get the site as you wanted it?
+
+A lot of trial and error. Kind of tedious, but learned more playing with it.
+
+
+What CSS did you use to modify the element style (like size, color, etc.)
+font-size:;
+color:;
+text-style:;
+text-align:;
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+I used both class and ids. I think using a .css file is way cleaner to code. 
+
+
+*/
+
+
+
+
