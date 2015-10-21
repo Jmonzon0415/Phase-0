@@ -55,6 +55,6 @@ The challenge was definietly a refresher on ruby. I was doing too much at first 
 
 ### Links to Challenges 
 
-[basic math ](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/basic-math.rb)
-[defining variables](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/defining-variables.rb)
-[simple strings](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/simple-string.rb)
+1.[basic math ](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/basic-math.rb)
+2.[defining variables](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/defining-variables.rb)
+3.[simple strings](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/simple-string.rb)
