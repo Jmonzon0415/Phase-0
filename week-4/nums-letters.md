@@ -50,3 +50,11 @@ A local variable is something you define. You use them in place of typing out wh
 ##How was this challenge? Did you get a good review of some of the basics?
 
 The challenge was definietly a refresher on ruby. I was doing too much at first and trying to make methods when none were neccesary. The only hard part I ran into was making "modulus" work. Overall fun challenge. 
+
+
+
+### Links to Challenges 
+
+[basic math ](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/basic-math.rb)
+[defining variables](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/defining-variables.rb)
+[simple strings](https://github.com/Jmonzon0415/Phase-0/blob/master/week-4/simple-string.rb)
