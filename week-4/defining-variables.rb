@@ -63,15 +63,16 @@ end
 #How do you run a ruby program from the command line?
   # To run a ruby code on your command line you can type "ruby <filename>.rb"
 
-#How do you run an RSpec file from the command line?
 
-  #to run Rspec on the command line you can type " rpsec <filename_spec>.rb"
+#How do you run an RSpec file from the command line?
+  To run Rspec on the command line you can type " rpsec <filename_spec>.rb"
 
 #What was confusing about this material? What made sense?
-
-  # The material was a lot at first, but after playing around with it for a while it started to make sense. my issue is syntax.
+  The material was a lot at first, but after playing around with it for a while it started to make sense. my issue is syntax.
 
 
 #Add a link to each exercise solution file as well so your peers can
-
+https://github.com/Jmonzon0415/Phase-0/tree/master/week-4/address 
+https://github.com/Jmonzon0415/Phase-0/tree/master/week-4/math
+https://github.com/Jmonzon0415/Phase-0/tree/master/week-4/define_methods
 
