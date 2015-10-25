@@ -1,1 +1,53 @@
-body { background-color: blue; }
+body {
+	font-family: 
+
+
+
+}
+
+header { 
+	border-bottom: 2px solid black;
+	background-color: #A7CAFB; 
+}
+
+.column-1 {
+	background-color: #C7D3AB;
+	float: left;
+	width: 50%;
+}		
+
+
+
+.column-2 {
+	background-color: #C7D3AB;
+	float: left;
+	width: 50%;
+}
+
+
+
+footer {
+	background-color: #A7CAFB;
+	clear: both;
+	border-top: 2px solid black;
+	text-align: center ;
+
+}
+
+.img1 {
+		width: 40px;
+		height: auto;
+
+}
+
+a:hover { 
+		background-color: #FFA500; 
+}
+
+
+a:link { 
+      	text-decoration: none;
+
+}
+
+
