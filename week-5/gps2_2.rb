@@ -1,4 +1,4 @@
-Psuedocode 
+#Psuedocode 
 # Define a method that makes hash
 # create a new list
 # item, quantity 
@@ -59,3 +59,26 @@ def print_do(groceries_list)
 end
   
 print_do(groceries_list)
+
+#REFLECTION 
+#What did you learn about pseudocode from working on this challenge?
+#I learned I dont psuedocode that well and need to be more specific with my comments and intentions.
+
+#What are the tradeoffs of using Arrays and Hashes for this challenge?
+# You definitly want to use a Hash for this challenge. You have two object paired together and it is easier to be able to
+# call the key and value. 
+
+#What does a method return?
+# A method returns any ouput you want it to return. It can return an integer, a string, an array, a hash 
+
+#What kind of things can you pass into methods as arguments?
+# You can pass many things through a method as an argument. you can pas an integer, a string, an array, a hash. 
+
+#How can you pass information between methods?
+#You can pass information through methods from global defined variables, or specify variables in the argument.
+
+
+#What concepts were solidified in this challenge, and what concepts are still confusing?
+
+#the concept of adding variables as arguments and passing them to other methods. I am still confused a little bit on
+#the difference between return, p, puts, print. 
